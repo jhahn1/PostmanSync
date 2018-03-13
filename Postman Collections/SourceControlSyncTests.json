@@ -1,0 +1,20 @@
+{
+  "info": {
+    "_postman_id": "1dbcd375-c620-40dd-bd16-a12b9a9de334",
+    "name": "SourceControlSyncTests",
+    "schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+  },
+  "item": [
+    {
+      "_postman_id": "35c07025-312e-4ded-b184-ca584263e068",
+      "name": "GithubIntegrationTest",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "body": {},
+        "url": "localhost:8080/testMuchacho"
+      },
+      "response": []
+    }
+  ]
+}
