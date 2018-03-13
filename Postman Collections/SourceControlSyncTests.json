@@ -18,7 +18,7 @@
         ],
         "body": {
           "mode": "raw",
-          "raw": ""
+          "raw": "{\n\t\"test\": \"test\"\n}"
         },
         "url": "localhost:8080/testMuchacho"
       },
